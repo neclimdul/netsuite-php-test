@@ -1,0 +1,13 @@
+{
+    "name": "neclimdul/netsuite_test",
+    "require": {
+        "weew/helpers-array": "^1.3",
+        "ryanwinchester/netsuite-php": "^2019.2"
+    },
+    "authors": [
+        {
+            "name": "James Gilliland",
+            "email": "neclimdul@gmail.com"
+        }
+    ]
+}
